@@ -48,9 +48,8 @@ The goal of this project is to demonstrate:
 ---
 
 ## Setup & Run Instructions
-
-### 1. Clone Repository
 ```bash
+### 1. Clone Repository
 git clone https://github.com/<your-username>/bajaj-trading-sdk.git
 cd bajaj-trading-sdk
 2. Build Project
@@ -216,7 +215,7 @@ Clean layered architecture
 Order execution simulation
 
 Validation using Spring annotations
-
+```
 Author
 
 Amartya Mazumder
